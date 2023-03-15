@@ -2,12 +2,6 @@ import sys
 import os
 from PIL import Image
 
-# while True:
-    # if not sys.argv[1] or sys.argv[2]:
-        #print("Invalid. Usage: python3 app.py source_directory/ final_directory/")
-        #continue
-    #break
-
 # Taking first argument, path of source folder with pictures
 source = sys.argv[1]
 
